@@ -36,9 +36,9 @@ list($salarioSinImpuesto, $salarioTotal) = calcularSalario($salarioTrabajador);
 
 
 
-echo "Salario total: " . $total;
+echo "Salario total: $" . $total;
 echo "<br>";
-echo "Salario sin impuesto: " . $salarioSinImpuesto;
+echo "Salario sin impuesto: $" . $salarioSinImpuesto;
 
 
 ?>
